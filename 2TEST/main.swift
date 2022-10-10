@@ -4,7 +4,7 @@
 //
 //  Created by Байгелди Акылбек уулу on 6/10/22.
 //
-
+//
 import Foundation
 
 //1 задание
